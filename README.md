@@ -1,15 +1,14 @@
 # LevelSense
-An Iot baseed spirit level that measures tilt in all 3 axis with 0.2 dgrees precision.
+An Iot baseed spirit level that measures tilt in all 3 axis with 0.2 degrees precision.
 <div align="center">
 
-# 📐 LevelSense
+#  LevelSense
 
-**A portable Wi-Fi digital spirit level powered by the ESP32-C3.**
+**An Iot baseed spirit level that measures tilt in all 3 axis with 0.2 degrees precision**
 
-Measure pitch and roll in real time from any phone or computer through a built-in web interface.
+Measure pitch and roll in real time from any phone or computer through a built in web interface.
 
-<!-- Add a project banner here later -->
-<!-- ![Banner](docs/images/banner.png) -->
+
 
 </div>
 
@@ -17,21 +16,22 @@ Measure pitch and roll in real time from any phone or computer through a built-i
 
 ## Overview
 
-LevelSense is a compact electronic spirit level designed for makers, engineers, and hobbyists. Instead of relying on a traditional bubble level, it uses an MPU6050 IMU to accurately measure orientation and streams the data to a responsive web dashboard hosted directly on the ESP32-C3.
+Ive often seen my father use a spirit level, but I always thought how could that even be accurate and theres certainly a lot of parallex error. Triggering the small OCD tendency I decided to make Levelsense. 
 
-The goal is to create an affordable, rechargeable, and easy-to-build digital level that anyone can assemble using open-source hardware and software.
+Levelsense is a digital spirit level made for makers and engineers, mabye even used for industries if developed more. What levelsense do is measure the acceleration from the mpu6050 and convert this to roll and pitch angle using esp32c3 fast processing speed, which is then tranmistted live to a web page where the user can connect.
+
+The user can select which axis to measure and the BG of the webpage turns greeen when its perfectly alligned.
+
 
 ---
 
 ## Features
 
-- 📐 Real-time pitch & roll measurements
-- 🌐 Built-in Wi-Fi web dashboard
-- 📱 No mobile app required
-- 🔋 Rechargeable LiPo battery
-- ⚡ USB-C charging
-- 🖨️ Custom 3D-printed enclosure
-- 🔧 Open-source hardware and firmware
+-  Real time pitch and roll measurements
+-  Builtin WiFi web dashboard
+-  No mobile app required
+-  Rechargeable LiPo battery
+-  USB C charging
 
 ---
 
@@ -40,9 +40,9 @@ The goal is to create an affordable, rechargeable, and easy-to-build digital lev
 | Component | Part |
 |-----------|------|
 | Microcontroller | ESP32-C3 SuperMini |
-| IMU | MPU6050 |
-| Battery | 3.7V LiPo |
-| Charging | USB-C LiPo Charger |
+| IMU | MPU6050 SMD |
+| Battery | 3.7V Lipo |
+| Charging | USB C LiPo Charger |
 | Power Switch | Mini Slide Switch |
 
 ---
@@ -56,50 +56,18 @@ The goal is to create an affordable, rechargeable, and easy-to-build digital lev
 
 ---
 
-## Repository Structure
 
-```
-firmware/      ESP32 firmware
-hardware/      PCB, schematic, BOM
-enclosure/     3D CAD files (STEP/STL)
-docs/          Documentation & images
-```
-
----
 
 ## Current Status
 
-🚧 **In Development**
+ **In Development**
 
-### Completed
+This project was made for a hackclub event called macondo and its still in devlopement phase, as I require funding. 
 
-- ✅ Firmware architecture
-- ✅ Web dashboard
-- ✅ Wi-Fi communication
-- ✅ Project planning
+*Things completed**
 
-### In Progress
+-Assembling the gadget and soldering components on the PCB to build the actual product itself.
 
-- ⏳ PCB Design
-- ⏳ Enclosure Design
-- ⏳ Hardware Assembly
-- ⏳ Testing & Calibration
-- ⏳ Documentation
-
-Hardware prototyping and validation will begin after the required components are available.
-
----
-
-## Roadmap
-
-- [x] Design project architecture
-- [x] Develop firmware
-- [ ] Design PCB
-- [ ] Assemble prototype
-- [ ] Test sensor accuracy
-- [ ] Design enclosure
-- [ ] Optimize battery life
-- [ ] Release Version 1.0
 
 ---
 
