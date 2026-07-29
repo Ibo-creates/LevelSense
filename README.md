@@ -17,7 +17,7 @@ Measure pitch and roll in real time from any phone or computer through a built i
 
 Ive often seen my father use a spirit level, but I always thought how could that even be accurate and theres certainly a lot of parallex error. Triggering the small OCD tendency I have, I decided to make Levelsense. 
 
-Levelsense is a digital spirit level made for makers and engineers, mabye even used for industries if developed more. What levelsense do is measure the acceleration from the mpu6050 and convert this to roll and pitch angle using esp32c3 fast processing speed, which is then tranmistted live to a web page where the user can connect.
+Levelsense is a digital spirit level made for makers and engineers, mabye even used for industries if developed more. What levelsense does  is measure the acceleration from the mpu6050 and convert this to roll and pitch angle using esp32c3 fast processing speed, which is then tranmistted live to a web page where the user can connect.
 
 The user can select which axis to measure and the BG of the webpage turns greeen when its perfectly alligned.
 
