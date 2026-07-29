@@ -63,7 +63,7 @@ The user can select which axis to measure and the BG of the webpage turns greeen
 
 This project was made for a hackclub event called macondo and its still in devlopement phase, as I require funding. 
 
-*Things completed**
+**Pending updates**
 
 -Assembling the gadget and soldering components on the PCB to build the actual product itself.
 
