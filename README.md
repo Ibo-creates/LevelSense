@@ -40,8 +40,7 @@ The user can select which axis to measure and the BG of the webpage turns greeen
 |-----------|------|
 | Microcontroller | XIAO ESP32-C3  |
 | IMU | MPU6050 SMD |
-| Battery | 3.7V Lipo |
-| Charging | USB C LiPo Charger |
+| Battery | 3.7V Lipo (200 mah) |
 | Power Switch | Mini Slide Switch |
 
 ---
