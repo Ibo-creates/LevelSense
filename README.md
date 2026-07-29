@@ -3,7 +3,7 @@
 
 #  LevelSense
 
-**An Iot baseed spirit level that measures tilt in all 3 axis with 0.2 degrees precision**
+**An Iot baseed spirit level that measures pitch and roll with 0.2 degrees precision**
 
 Measure pitch and roll in real time from any phone or computer through a built in web interface.
 
