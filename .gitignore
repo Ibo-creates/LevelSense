@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Arduino
+build/
+
+# KiCad local settings
+*.kicad_prl
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
