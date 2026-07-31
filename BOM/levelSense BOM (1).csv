@@ -1,0 +1,19 @@
+Table 1,,,,,,,
+Item,Description,Reference,Footprint,Quantity,Unit Price (USD),Vendor,Purchase Link
+XIAO ESP32-C3,Microcontroller,U1,RF_Module:MCU_Seeed_ESP32C3,1,(I already have it),-,-
+MPU6050,Imu sensor,U2,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,1,$1.40,digilog.pk,https://digilog.pk/products/gy521-mpu6050-3-axis-digital-gyroscope-accelerometer-sensor-module
+Lipo battery ,200mAH 3.7v,-,-,1,(I already have it),-,-
+Slide switch ,SPDT switch ,SW1,Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,1,(I already have it),-,-
+Capacitor SMD,2.2nf,C1,Capacitor_SMD:C_0805_2012Metric,1,(I already have it),-,-
+Capacitor SMD,10uf,C3,Capacitor_SMD:C_0805_2012Metric,1,(I already have it),-,-
+Capacitor SMD,0.1uf,"C2,C4",Capacitor_SMD:C_0805_2012Metric,2,(I already have it),-,-
+Resistor SMD,4.7k,"R1,R2",Capacitor_SMD:C_0805_2012Metric,2,(I already have it),-,-
+Jst connector ,2 Pin Jst Ph Connector 2.0mm Pitch,J1,Conn_01x02_Pin,1,$0.0.72,digilog.pk,https://digilog.pk/products/2-pin-jst-ph-connector-2-0mm-pitch-in-pakistan
+Jst connector,2mm Pitch Jst2.0 Plug 2 Pin Extension Wire Connector,-,-,1,$0.14,digilog.pk,https://digilog.pk/products/battery-connector-jst-2mm-in-pakistan
+Soldering stand ,Helping Hand Clip Desktop Led Light Magnifier Glass,-,-,1,$4.54,digilog.pk,https://digilog.pk/products/helping-hand-led-light-magnifier-glass-with-soldering-stand-in-pakistan?variant=44490932748566
+Solder paste,Mechanic solder paste in syringe,-,-,1,$2.74,digilog.pk,https://digilog.pk/products/mechanic-solder-paste-in-syringe-in-pakistan?variant=44490172432662
+Twezeers,Curve tip,-,-,1,$0.4,digilog.pk,https://digilog.pk/products/curve-tip-dissecting-forceps-tweezers-in-pakistan?variant=44488063811862
+Hot air gun ,Sdl 8610 Dual Temperature Hot Air Gun 1800 Watt,-,-,1,$7.27,digilog.pk,https://digilog.pk/products/dual-temperature-hot-air-gun?variant=44490678010134
+Shipping cost,For Digilog store,-,-,1,$1.51,digilog.pk,digilog.pk
+PCB manufacture,Manufacture and shipping included,-,-,5,$2.10 + $34.44(shipping) ,jlcpcb.com,jlcpcb.com 
+Total cost,Cost required for grant,-,-,-,$54.62,-,-
