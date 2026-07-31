@@ -36,15 +36,17 @@ The user can select which axis to measure and the BG of the webpage turns greeen
 
 ## Hardware
 
-| Component | Part |
-|-----------|------|
-| Microcontroller | XIAO ESP32-C3  |
-| IMU | MPU6050 SMD |
-| Battery | 3.7V Lipo (200 mah) |
-| Power Switch | Mini Slide Switch |
-
-
-
+| Component | Model / Specification |
+|-----------|-----------------------|
+| Microcontroller | Seeed Studio XIAO ESP32-C3 |
+| IMU | MPU6050 |
+| Battery | 3.7V 200mAh LiPo |
+| Power Switch | SPDT Slide Switch |
+| PCB | Custom 2-layer PCB |
+| Capacitors | 2.2nF ×1, 10µF ×1, 0.1µF ×2 |
+| Resistors | 4.7kΩ ×2 |
+| Connector | JST PH 2-Pin Battery Connector |
+| Enclosure | Custom 3D-Printed Case |
 ---
 
 ## Software
