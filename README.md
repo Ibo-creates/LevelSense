@@ -1,4 +1,4 @@
-![Description](image1.jpg)
+![Description](Image1.jpg)
 
 
 <div align="center">
