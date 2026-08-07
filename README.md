@@ -1,4 +1,4 @@
-![Description](Images/Image1.png)
+![Description](Images/Image1.jpeg)
 
 <div align="center">
 
