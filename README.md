@@ -36,6 +36,9 @@ The user can select which axis to measure and the BG of the webpage turns greeen
 -  USB C charging
 
 ---
+##Onshape link: 
+
+https://cad.onshape.com/documents/eb162f35669f76bf87f9d57e/w/d3793a46ff3fde4e9d2f3516/e/823be988cf47e9833c1df9f3?renderMode=0&uiState=6aaae2133ef3f6a1e4fc79b2
 
 ## Hardware
 
